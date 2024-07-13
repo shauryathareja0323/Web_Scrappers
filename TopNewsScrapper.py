@@ -1,3 +1,5 @@
+#This can scrap Top News Headlines of India for you.
+
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 
